@@ -1,0 +1,20 @@
+{
+  "name": "linkphp/upload",
+  "type": "library",
+  "description": "php upload 上传",
+  "keywords": ["upload","php upload"],
+  "authors": [
+    {
+      "name": "liugene",
+      "email": "liujun2199@vip.qq.com"
+    }
+  ],
+  "require": {
+    "php": "^5.5 || ^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "linkphp\\upload\\": "src"
+    }
+  }
+}
